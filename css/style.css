@@ -1,0 +1,53 @@
+.container-fluid{
+    font-family: 'Teko', sans-serif;
+}
+#getting .back{
+    background-image: url(../image/background/home-min.jpg);
+    background-size: 100% 100%;
+    background-position: 100% 100%;
+}
+.image{
+    background-image: url(../image/illustration/home-testimonials1-min.jpg);
+    background-size: 100% 100%;
+    background-position: 100% 100%;
+}
+#street a{
+    color: #CDDC39;
+}
+#get .row{
+    background-image: url(../image/background/blue-poly-background-min.jpg);
+    background-attachment: fixed;
+}
+#receive .row{
+    background-image: url(../image/background/green-poly-background-min.jpg);
+    background-attachment: fixed;
+}
+#pay .back3{
+    background-image: url(../image/background/how-it-works-background-min.jpg);
+    background-attachment: fixed;
+}
+#why i:hover{
+    background-color: #CDDC39;
+    color: white !important;
+}
+#capital .row{
+    background-color: #CDDC39;
+}
+#the .back4{
+    background-image: url(../image/background/home-background-1-min.jpg);
+    background-size: 100% 100%;
+    background-position: 100% 100%;
+    background-attachment: fixed;
+}
+#what i{
+ color: #CDDC39;
+}
+#where .display-5{
+    color: #CDDC39 !important;
+    transition-duration: 1s;
+}
+
+
+
+
+     
